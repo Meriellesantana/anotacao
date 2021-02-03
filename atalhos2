@@ -1,0 +1,38 @@
+    
+----------------------------------------------------------------------------------------------------------
+
+ATALHO PARA HTML
+
+<!--PARA ZERAR O HTML-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" />
+
+<!--ARRUMAR ACENTUAÇÃO-->
+<meta charset="utf-8" />
+
+<!--INSERIR ICONE-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"/>
+
+<!-- <i class="fal fa-angle-down"></i>  seta 
+<i class="fal fa-search"></i>   pesquisa
+<i class="fab fa-facebook-f"></i>   face
+<i class="fab fa-twitter"></i> twitter
+<i class="fab fa-google-plus-g"></i> google
+<i class="fab fa-pinterest-p"></i> pinterest
+<i class="fal fa-basketball-ball"></i>  bola
+<i class="fas fa-envelope"></i> mail
+<i class="fas fa-tools"></i> ferarmenta -->
+<!-- <i class="fal fa-arrow-right"></i> seta dir
+<i class="fab fa-instagram"></i> inst
+<i class="fal fa-arrow-left"></i> sets esq -->
+
+<!-- inserir font--> pegar do google fonts 
+
+<!--CAMINHO PARA COLOCAR PASTA CSS NO HTML-->
+<link rel="stylesheet" href="css/site.css">
+
+<!--CAMINHO PARA COLOCAR PASTA JS NO HTML-->
+<script src="MEIRE/exemplo.js"></script>
+
+<!--inserir icon na aba --><link rel="shortcut icon" type="image/x-icon" href="">
+						 
+

@@ -1,0 +1,12 @@
+
+// para abrir o menu () NECESSARIO PARA FAZER A LEITURA DO JQUERY :$(document).ready(function(){ inserir cod });
+
+$(document).ready(function(){
+
+$('tag').on("click",function(){
+$('tag').slideToggle();
+
+});
+
+});
+							

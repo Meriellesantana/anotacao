@@ -1,0 +1,82 @@
+    
+----------------------------------------------------------------------------------------------------------
+
+ATALHO PARA HTML
+
+ 
+
+
+ 
+<!DOCTYPE html>
+
+<!--PARA ZERAR O HTML-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" />
+
+<!--ARRUMAR ACENTUAÇÃO-->
+<meta charset="utf-8" />
+
+<!--inserir icon na aba -->
+<link rel="shortcut icon" type="image/x-icon" href="">
+
+<!--INSERIR ICONE AWESOME-->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"/>
+
+<!--CAMINHO PARA COLOCAR PASTA CSS NO HTML-->
+<link rel="stylesheet" href="css/config.css" media="screen">
+
+<!--CAMINHO PARA COLOCAR PASTA JS NO HTML-->
+<script src="MEIRE/exemplo.js"></script>
+
+
+<i class="fal fa-angle-down"></i>  seta 
+<i class="fal fa-search"></i>   pesquisa
+<i class="fab fa-facebook-f"></i>   face
+<i class="fab fa-twitter"></i> twitter
+<i class="fab fa-google-plus-g"></i> google
+<i class="fab fa-pinterest-p"></i> pinterest
+<i class="fal fas-basketball-ball"></i>  bola
+<i class="fas fa-envelope"></i> mail
+<i class="fab fa-instagram"></i> inst
+<i class="fas fa-tools"></i> ferarmenta 
+<i class="fal fa-arrow-right"></i> seta dir
+<i class="fal fa-arrow-left"></i> sets esq
+<i class="fab fa-behance"></i> Be 
+<i class="fab fa-medium"></i> M
+<i class="fab fa-linkedin-in"></i> linkedin
+
+ inserir font pegar do google fonts 
+
+
+						 
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1095.3 126">
+<path d="M2.3 58c0 0 70 50.4 177 52 101.5 1.5 145.1-20.7 170-31.8 5.9-2.6 38.9-20.5 38.9-20.5 3.8-2.8 72.7-43.4 159.4-43.7s132.1 29.3 162.3 45.4c0 0 26.6 14.5 36.7 19.3 2.9 1.4 64.7 29.3 169.7 30.3s166-46.3 178-50 "style="fill:none;stroke-width:2;stroke:#000000""></path>
+</svg>
+
+background: linear-gradient(to right, #6efaee 0%,  #1cc9e7 100%);
+
+
+
+/*ATENÇÃO TODAS AS FORMATAÇÕES DO JS NO HTML SÃO INSERIDAS NO FIM DO BORY 
+
+
+Experimente este código »*/
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Basic Bootstrap Template</title>
+    <!-- Bootstrap CSS file -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+</head>
+<body>
+    <h1>Hello, world!</h1>
+    <!-- JS files: jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+</body>
+</html>
+
+
